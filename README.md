@@ -1,7 +1,8 @@
 ### Hi my name is pedrohcs8! 👋
 
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning HTML and CSS
+- 🔭 I’m currently working on JavaScript, TypeScript and C#
+- 🌱 I’m currently learning TS, React and Next.JS
+- 🇧🇷 I’m a Brazilian but I speak English too!
 - ⚡ Fun fact: I have a 30M ethernet cable in my bedroom
 
 <div>
