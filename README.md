@@ -1,4 +1,4 @@
-### Hi my name is pedrohcs8! 👋
+### Hi my name is Pedro Sena or just pedrohcs8! 👋
 
 - 🔭 I’m currently working on JavaScript, TypeScript and C#
 - 🌱 I’m currently learning TS, React and Next.JS
