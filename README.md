@@ -5,7 +5,7 @@
 - 🇧🇷 I’m a Brazilian but I speak English too!
 - ⚡ Fun fact: I have a 30M ethernet cable in my bedroom
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcs8)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/788515118425571378/889189481641545778/thanks.gif">
 </div>
