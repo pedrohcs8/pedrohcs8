@@ -1,6 +1,6 @@
 ### Hi my name is Pedro Sena or just pedrohcs8! 👋
 
-- 🔭 I’m currently working on JavaScript, TypeScript and C#
+- 🔭 I’m currently working on JavaScript, Python and C#
 - 🌱 I’m currently learning TS, React and Next.JS
 - 🇧🇷 I’m a Brazilian but I speak English too!
 - ⚡ Fun fact: I have a 30M ethernet cable in my bedroom
