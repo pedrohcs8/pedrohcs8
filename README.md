@@ -1,9 +1,11 @@
-### Hi my name is Pedro Sena or just pedrohcs8! 👋
+### Hi I'm Pedro Sena or just pedrohcs8! 👋
 
-- 🔭 I’m currently working on JavaScript, Python and C#
-- 🌱 I’m currently learning TS, React and Next.JS
-- 🇧🇷 I’m a Brazilian but I speak English too!
-- ⚡ Fun fact: I have a 30M ethernet cable in my bedroom
+- 🔭 Working Mainly with JavaScript, Typescript, Python, C and C#
+- 🌱 Learning C, Java and mastering Typescript
+- 🧭 App, Discord Bots and Game developer
+- ⚡ Developing and Designing for Embedded Electronics
+- 🥁 Drum Player and Music Lover
+- 🇧🇷 I’m a Brazilian that speaks Brazillian Portuguese and English.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcs8)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
