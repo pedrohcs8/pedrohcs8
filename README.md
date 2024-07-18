@@ -7,7 +7,7 @@
 - 🥁 Drum Player and Audiophile.
 - 🇧🇷 I’m a Brazilian that speaks Brazillian Portuguese and English.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcs8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcs8)
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/788515118425571378/889189481641545778/thanks.gif">
 </div>
