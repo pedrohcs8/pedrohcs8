@@ -4,7 +4,7 @@
 - 🌱 Learning C, Java and mastering Typescript.
 - 🧭 App, Discord Bots and Game developer.
 - ⚡ Developing and Designing Embedded Electronics.
-- 🥁 Drum Player and Audiophile.
+- 🥁 Drummer and Audiophile.
 - 🇧🇷 I’m a Brazilian that speaks Brazillian Portuguese and English.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcs8)](https://github.com/anuraghazra/github-readme-stats)
