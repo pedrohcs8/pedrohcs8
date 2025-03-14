@@ -19,13 +19,37 @@
   
   ![Snake animation](https://github.com/pedrohcs8/pedrohcs8/blob/output/github-contribution-grid-snake.svg)
 
+<div>
+    Languages
+    <div style="display: inline_block"><br>
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
+    </div>
+</div><br>
 
-<div style="display: inline_block"><br>
-  <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
-  <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
-  <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg">
-  <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
+<br>
+
+<div>
+    Frameworks
+    <div style="display: inline_block"><br>
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/raspberrypi/raspberrypi-original.svg">
+    </div>
+</div><br>
+
+<br>
+<div>
+    IDE'S
+    <div style="display: inline_block"><br>
+        <img align="left" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg">
+    </div>
 </div>
+
+
