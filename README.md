@@ -37,6 +37,7 @@
     Frameworks
     <div style="display: inline_block"><br>
         <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/electron/electron-original.svg">
         <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-original.svg">
         <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/raspberrypi/raspberrypi-original.svg">
     </div>
@@ -47,8 +48,8 @@
     IDE'S
     <div style="display: inline_block"><br>
         <img align="left" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg">
-        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg">
         <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg">
     </div>
 </div>
 
