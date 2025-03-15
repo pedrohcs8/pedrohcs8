@@ -8,16 +8,9 @@
 - 🇧🇷 I’m a Brazilian that speaks Brazillian Portuguese and English.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcs8)](https://github.com/anuraghazra/github-readme-stats)
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img align="center" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/788515118425571378/889189481641545778/thanks.gif">
 </div>
-
-
-<div style='display: inline_block'>
-  <a href="https://www.youtube.com/channel/UCOGQK41J8nLNbzmUI5BoUxw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-</div>
-  
-  ![Snake animation](https://github.com/pedrohcs8/pedrohcs8/blob/output/github-contribution-grid-snake.svg)
 
 <div>
     Languages
@@ -51,7 +44,27 @@
         <img align="left" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg">
         <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg">
         <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg">
+    </div>
+</div><br>
+
+<br>
+<div>
+    DB'S
+    <div style="display: inline_block"><br>
+        <img align="left" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+    </div>
+</div><br>
+
+<br>
+<div>
+    General Skills
+    <div style="display: inline_block"><br>
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unity/unity-original.svg">
+        <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pfsense/pfsense-original.svg">
     </div>
 </div>
 
-
+![Snake animation](https://github.com/pedrohcs8/pedrohcs8/blob/output/github-contribution-grid-snake.svg)
