@@ -1,7 +1,7 @@
 ### I'm Pedro Sena or just pedrohcs8! 👋
 
 - 🔭 Working mainly with Java, JavaScript, Typescript, Python, C and C#.
-- 🃏 A jack of all trades
+- 🃏 A jack of all trades.
 - 🧭 App, Discord Bots and Game Developer.
 - ⚡ Developing and Designing Embedded Electronics.
 - 🥁 Drummer and Audiophile.
